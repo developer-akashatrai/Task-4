@@ -384,12 +384,3 @@ span i{
     font-size:30px;
     color:white
 }
-.credit{
-    position:relative;
-}
-.credit h4{
-    color:white;
-    psoition:absolute;
-    left:5%;
-    bottom:1%;
-}
